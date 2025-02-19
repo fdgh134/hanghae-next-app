@@ -3,7 +3,7 @@
 ## 주요 링크
 
   - S3 버킷 웹사이트 엔드포인트: http://hanghae-fe4-yoomin.s3-website-ap-southeast-2.amazonaws.com
-  - CloudFrount 배포 도메인 이름: https://d1pce3k3c8tvtx.cloudfront.net
+  - CloudFront 배포 도메인 이름: https://d1pce3k3c8tvtx.cloudfront.net
 
 ## 배포 아키텍처
 
